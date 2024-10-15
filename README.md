@@ -1,3 +1,15 @@
+## 👋 About Me
+
+**Parth Choudhary**  
+📍 Himachal Pradesh, India  
+📧 [Email me](mailto:choudharyparth118@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/parth-choudhary-79b168290) | [GitHub](https://github.com/parth-choudhary613)
+
+---
+
+💻 I'm a passionate full-stack developer with a focus on building dynamic web applications.  
+🔧 Proficient in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, and more.  
+🚀 Currently contributing to live projects and always looking to learn new technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Parth Choudhary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__parth_choudhary__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parth-choudhary-79b168290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8Q4oNioJQXmiSbku1KjYTA%3D%3D) 
