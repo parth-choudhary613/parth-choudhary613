@@ -1,10 +1,9 @@
 ## 👋 About Me
-
+https://webresume-bzt.pages.dev
 **Parth Choudhary**  
 📍 Himachal Pradesh, India  
 📧 [Email me](mailto:choudharyparth118@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/parth-choudhary-79b168290) | [GitHub](https://github.com/parth-choudhary613)
-https://webresume-bzt.pages.dev
 ---
 
 💻 I'm a passionate full-stack developer with a focus on building dynamic web applications.  
